@@ -27,13 +27,12 @@ PM/SE/PGとして要件定義〜実装・保守・顧客折衝まで一気通貫
 
 ### GitHub Stats
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=hassi-dev83&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> -->
   <img src="https://github-readme-stats-fast.vercel.app/api?username=hassi-dev83&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassi-dev83&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassi-dev83&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hassi-dev83&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ### Featured Projects / Portfolio
