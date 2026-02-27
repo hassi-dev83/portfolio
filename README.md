@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hassi-dev83.hassi-dev83&right_color=green&left_text=Visitors" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=hassi-dev83&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ### About Me
