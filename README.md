@@ -48,7 +48,7 @@ PM/SE/PGとして要件定義〜実装・保守・顧客折衝まで一気通貫
 
 - **AWS構築実績（SES経験）**  
   EC2/ECS/RDS/S3/R53/SMS を活用したフルスタック環境構築  
-  構成図（Draw.io）で公開中
+  ![AWS構成図サンプル](images/my-diagram.png)
 
 ### Real Experience (守秘義務考慮)
 - PM/SE/PGとしてSESフルリモート案件1年継続（Laravel/Vue.js/AWS中心）
