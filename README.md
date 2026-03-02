@@ -38,11 +38,11 @@ PM/SE/PGとして要件定義〜実装・保守・顧客折衝まで一気通貫
 ### Featured Projects / Portfolio
 詳細は専用リポジトリ → **[portfolio](https://github.com/hassi-dev83/portfolio)** をチェック！
 
-- **LINE LIFF 簡易予約ツール**（個人デモ）  
+- **LINE LIFF 簡易予約ツール**（開発中）  
   Vue.js 3 + LIFF SDK + Laravel API + Docker（Railway/Vercelデプロイ）  
   LINE認証・予約CRUD・通知連携を実装
 
-- **Laravel + Vue.js タスク管理SPA**  
+- **Laravel + Vue.js タスク管理SPA**（開発中）  
   Laravel 11 + Vue.js 3 (Composition API) + Docker  
   AWS移行想定の構成（SES実務ベース）
 
